@@ -1,3 +1,11 @@
+<div align="center">
+<img src="https://i.imgur.com/MvMxQ1a.gif" align="center" style="width: 100%" />
+</div>
+
+
+### Hey there! I'm Oshadha, and I'm studying computer science as an undergraduate student.
+
+
 # 💫About Me :
 I'm currently studying at Informatics Institute of Technology Sri Lanka(UOW)
 
