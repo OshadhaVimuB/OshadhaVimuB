@@ -14,7 +14,7 @@ I'm currently studying at Informatics Institute of Technology Sri Lanka(UOW)
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OshadhaVimuB&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+![](https://github-profile-trophy.vercel.app/?username=OshadhaVimuB&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=OshadhaVimuB&icon=0&color=0)](https://visitcount.itsvg.in)
