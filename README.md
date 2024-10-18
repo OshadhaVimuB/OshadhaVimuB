@@ -18,3 +18,7 @@ I'm currently studying at Informatics Institute of Technology Sri Lanka(UOW)
 ![](https://github-profile-trophy.vercel.app/?username=OshadhaVimuB&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=OshadhaVimuB&icon=0&color=0)](https://visitcount.itsvg.in)
+
+# Hacktoberfest
+
+[![An image of @oshadhavimub's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/oshadhavimub)](https://holopin.io/@oshadhavimub)
