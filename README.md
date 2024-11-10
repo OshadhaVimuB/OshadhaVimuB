@@ -34,11 +34,6 @@ I'm well-versed in a variety of tools and technologies, including:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
 ![](https://github-profile-trophy.vercel.app/?username=OshadhaVimuB&theme=radical)
 
-
-## 🏅 Hacktoberfest:
-Check out my badges from Holopin!  
-[![Holopin](https://holopin.me/oshadhavimub)](https://holopin.io/@oshadhavimub)
-
 ---
 
 Thanks for stopping by! Feel free to reach out or explore more of my projects 🚀
