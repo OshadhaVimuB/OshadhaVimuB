@@ -3,11 +3,14 @@
 </div>
 
 
-# Hey there! 👋 I'm Oshadha  
-### 🚀 Undergraduate at IIT Sri Lanka (UOW)
+# 👋 Hey, I'm Oshadha Vimukthi  
+### 💻 Passionate Software Developer | 🚀 Tech Explorer  
 
-💡 Passionate about crafting innovative solutions and building awesome projects! Always exploring new tech and pushing my limits. Currently diving deep into the world of cloud computing and full-stack development.  
+I love turning ideas into **real-world applications** that make a difference. My interests span **full-stack web development**, **cloud computing**, and **open-source contributions**. Always eager to learn, build, and collaborate with the developer community!  
 
+---
+
+<br/>
 
 ## 🌐 Connect with Me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oshadhavimu) 
@@ -29,15 +32,13 @@ I'm well-versed in a variety of tools and technologies, including:
 
 
 # 📊GitHub Stats :
-![](https://github-readme-stats.vercel.app/api?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=OshadhaVimuB&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=OshadhaVimuB&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-![](https://github-profile-trophy.vercel.app/?username=OshadhaVimuB&theme=radical)
 
 ---
 
-Thanks for stopping by! Feel free to reach out or explore more of my projects 🚀
+💡 *"Building today for a better tomorrow."*  
+Thanks for stopping by! Feel free to connect and collaborate. 🚀  
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=OshadhaVimuB&icon=0&color=0)](https://visitcount.itsvg.in)
