@@ -27,7 +27,7 @@
 ```typescript
 const oshadha = {
   name:        "Oshadha Vimukthi",
-  role:        "UI/UX Designer & Full-Stack Developer",
+  role:        "Full-Stack & AI Developer",
   location:    "Sri Lanka 🇱🇰",
   languages:   ["TypeScript", "Python", "Java", "JavaScript"],
   stack:       ["React", "Node.js", "REST APIs", "Microservices"],
