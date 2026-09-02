@@ -53,14 +53,6 @@ An AI platform that turns a text prompt into a 3D building, simulates pedestrian
 `Next.js` `FastAPI` `Three.js` `Claude API`
 → [Read the case study](https://oshadha.com/work/archionlabs) · [Live prototype](https://www.archionlabs.com/)
 
-### [Dwellio](https://github.com/OshadhaVimuB/dwellio)
-A real estate SPA built around a multi-parameter search engine: filters across location, price, bedrooms and listing date, a drag-and-drop favourites system, and shareable URL-encoded search state.
-`React` `Vite` `React Router` `Jest`
-
-### Traffic Data Analysis
-A Python engine computing 15+ traffic metrics across vehicle classes and junctions, with peak-hour detection and a Tkinter histogram UI for comparing hourly volume between junctions.
-`Python` `OOP` `Tkinter`
-
 ---
 
 ## 🚀 Tech Arsenal
