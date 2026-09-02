@@ -100,13 +100,6 @@ A Python engine computing 15+ traffic metrics across vehicle classes and junctio
 
 ---
 
-## 🏆 Achievements
-
-- 🥇 **Hult Prize IIT Finalist** — ArchionLabs
-- 🥈 **PARALLAX UI/UX Hackathon Runner-Up**
-
----
-
 ## 📫 Let's Build Something Amazing
 
 <div align="center">
