@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="12" viewBox="0 0 900 12">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0%" stop-color="#7c3aed" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#7c3aed" stop-opacity="0"/>
+    </linearGradient>
+    <style>
+      .dot { animation: move 5s ease-in-out infinite alternate; }
+      @keyframes move { from { transform: translateX(0); } to { transform: translateX(820px); } }
+    </style>
+  </defs>
+  <rect y="5.5" width="900" height="1" fill="url(#g)"/>
+  <circle class="dot" cx="40" cy="6" r="3" fill="#a5b4fc"/>
+</svg>
